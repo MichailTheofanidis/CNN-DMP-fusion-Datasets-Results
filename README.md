@@ -1,4 +1,4 @@
-# PR2-Unreal-Dataset-Results
+# CNN-DMP-fusion-Datasets-Results
 
 This repository contains data to train the robot how to reach and object with regards to /Dataset_2
 
