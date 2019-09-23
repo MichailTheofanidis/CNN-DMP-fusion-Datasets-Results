@@ -1,7 +1,7 @@
 # PR2-Unreal-Dataset-Results
 
-This repository contaisn data to train the robot how to grasp objects under /Dataset_2
+This repository contains data to train the robot how to reach and object with regards to /Dataset_2
 
-The training results are in /Results_dmp_3 for the network that was trained on DMPS
+The training results for the network that was trained on DMPS are in /Results_dmp_3 
 
-The training results are in /Results_vel_3 for the network that was trained on velocities
+The training results for the network that was trained on velocities are in /Results_vel_3
